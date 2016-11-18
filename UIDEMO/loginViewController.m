@@ -26,7 +26,7 @@
    _actualimage=[UIImage imageNamed:@"3"];
    _container.image=_actualimage;
    [self.view addSubview:_container];
-   
+   //appdelegate
    //_view1=[[UIView alloc]init];
    //_view1.backgroundColor=[UIColor redColor];
    
